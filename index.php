@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
-		<title>Generate Followers for any social network</title>
+		<title>Select  Twitter Followers</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 		<meta name="description" content="Generate Followers for any social network" />    
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -5441,22 +5441,22 @@ function hexToRgb(e){var a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;e=e.replace(a,func
 			<div class="row">
 				<div class="col-4">
 					<div class="followers-select-item followers-select-item-1 active">
-						
+						<a target="_self" href="https://bottweet500.herokuapp.com/">
 						<span class="followers-value followers-value-1"><checkbox>500</checkbox></span>
-						<span class="followers-label">Followers</span>
+							<span class="followers-label">Followers</span></a>
 					</div>
 				</div>
 				<div class="col-4">
 					<div class="followers-select-item followers-select-item-2">
-						
+						<a target="_self" href="https://bottweet1000.herokuapp.com/">
 						<span class="followers-value followers-value-2"><checkbox>1000</checkbox></span>
-						<span class="followers-label">Followers</span>
+							<span class="followers-label">Followers</span></a>
 					</div>
 				</div>
 				<div class="col-4">
-					<div class="followers-select-item followers-select-item-3">
+					<div class="followers-select-item followers-select-item-3"><a target="_self" href="https://bottweet2500.herokuapp.com/">
 						<span class="followers-value followers-value-3"><checkbox>2500</checkbox></span>
-						<span class="followers-label">Followers</span>
+						<span class="followers-label">Followers</span></a>
 					</div>
 				</div>
 			</div>
